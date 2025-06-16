@@ -27,7 +27,7 @@ I'm **León, S.**, a student of programming, statistics and science enthusiast. 
 🔢 Matemáticas aplicadas / Applied mathematics
 ```
 
-## 📂 Repositorios
+## 📂 Repositorios/ Repositories
 
 | Proyecto / Project                                                                                                            | Descripción / Description                                    |
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
@@ -85,3 +85,7 @@ I'm **León, S.**, a student of programming, statistics and science enthusiast. 
 </p>
 
 
+<p align="center">
+  Cada línea de código es una herramienta para transformar ideas en soluciones, y el conocimiento en impacto.🚀  <br>
+  Every line of code is a tool to turn ideas into solutions, and knowledge into impact.🚀 
+</p>
