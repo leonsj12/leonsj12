@@ -27,29 +27,37 @@ I'm **León, S.**, a passionate student of programming, statistics, and applied 
 
 ## 📂 Repositorios/ Repositories
 
-| Proyecto / Project                                                                                                            | Descripción / Description                                    |
-| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [📘 funciones\_python](https://github.com/leonsj12/funciones_python)                                                          | Funciones básicas / Basic functions                          |
-| [📗 introduccion\_a\_la\_programacion\_en\_python\_I](https://github.com/leonsj12/introduccion_a_la_programacion_en_python_I) | Introducción a la programación / Introduction to programming |
-| [📙 programas](https://github.com/leonsj12/programas)                                                                         | Ejercicios variados / Various exercises                      |
+| 📘 Proyecto / Project | [funciones_python](https://github.com/leonsj12/funciones_python) |
+|-----------------------|------------------------------------------------------------------|
+| Descripción / Description | Funciones básicas / Basic functions |
+
+| 📗 Proyecto / Project | [introduccion_a_la_programacion_en_python_I](https://github.com/leonsj12/introduccion_a_la_programacion_en_python_I) |
+|-----------------------|------------------------------------------------------------------|
+| Descripción / Description | Introducción a la programación / Introduction to programming |
+
+| 📙 Proyecto / Project | [programas](https://github.com/leonsj12/programas) |
+|-----------------------|------------------------------------------------------------------|
+| Descripción / Description | Ejercicios variados / Various exercises |
 
 
 ## 🛠️ Herramientas / Tools
 
 ### Lenguajes / Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r" alt="R">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino" alt="Arduino">
-<img src="https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white" alt="MicroPython">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"><br>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r" alt="R"><br>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino" alt="Arduino"><br>
+<img src="https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white" alt="MicroPython"><br>
 
 ### Entornos / Environments
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter" alt="Jupyter">
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" alt="Colab">
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda" alt="Anaconda">
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm" alt="PyCharm">
-<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE">
-<img src="https://img.shields.io/badge/Thonny-5F4B8B?style=for-the-badge&logo=python&logoColor=white" alt="Thonny IDE">
-<img src="https://img.shields.io/badge/Tinkercad-FFAE1A?style=for-the-badge&logo=autodesk&logoColor=black" alt="Tinkercad">
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter" alt="Jupyter"><br>
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" alt="Colab"><br>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda" alt="Anaconda"><br>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm" alt="PyCharm"><br>
+<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"><br>
+<img src="https://img.shields.io/badge/Thonny-5F4B8B?style=for-the-badge&logo=python&logoColor=white" alt="Thonny IDE"><br>
+<img src="https://img.shields.io/badge/Tinkercad-FFAE1A?style=for-the-badge&logo=autodesk&logoColor=black" alt="Tinkercad"><br>
 
 
 📫 Contacto / Contact
