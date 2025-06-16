@@ -15,7 +15,7 @@ Soy **León, S.**, estudiante de programación y estadística. Exploro el mundo 
 
 I'm **León, S.**, a student of programming and statistics exploring the world through data.
 
-## Aprendiendo Ahora / Learning Now 🚀 
+## Aprendiendo ahora / Learning now 🚀 
 
 ```bash
 🧠 Python + lógica + funciones
@@ -57,7 +57,7 @@ I'm **León, S.**, a student of programming and statistics exploring the world t
 </p>
 
 
-### Trofeos Dinámicos 🏆 
+### Trofeos dinámicos 🏆 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=leonsj12&theme=algolia&column=6&no-frame=true" />
 </p>
