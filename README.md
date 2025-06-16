@@ -15,7 +15,7 @@ Soy **León, S.**, estudiante de programación y estadística. Exploro el mundo 
 
 I'm **León, S.**, a student of programming and statistics exploring the world through data.
 
-## 🚀 Aprendiendo Ahora / Learning Now
+## Aprendiendo Ahora / Learning Now 🚀 
 
 ```bash
 🧠 Python + lógica + funciones
@@ -24,7 +24,7 @@ I'm **León, S.**, a student of programming and statistics exploring the world t
 📊 Ciencia de datos paso a paso
 ```
 
-## 📂 Repositorios Favoritos
+## 📂 Repositorios
 
 | Proyecto | Descripción |
 |---------|-------------|
@@ -32,7 +32,7 @@ I'm **León, S.**, a student of programming and statistics exploring the world t
 | [📗 introduccion_a_la_programacion_en_python_I](https://github.com/leonsj12/introduccion_a_la_programacion_en_python_I) | Introducción a la programación |
 | [📙 programas](https://github.com/leonsj12/programas) | Ejercicios variados |
 
-## 🛠️ Herramientas Favoritas
+## 🛠️ Herramientas 
 
 ### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
@@ -45,9 +45,9 @@ I'm **León, S.**, a student of programming and statistics exploring the world t
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
 
 ## 📫 Contacto
-📧 sjleon2012@gmail.com
+📧 
 
-## 🌀 Panel Interactivo de Actividad GitHub
+## Actividad GitHub
 <p align="center">
   <img src="https://github-profile-3d-contrib.vercel.app/?username=leonsj12&theme=dracula&animated=true&font=Fira+Code&tooltip=on" width="100%" alt="GitHub 3D Contribution Graph"/>
 </p>
@@ -56,12 +56,8 @@ I'm **León, S.**, a student of programming and statistics exploring the world t
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonsj12&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
 </p>
 
-### 🌍 Gráfico 3D Interactivo
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/?username=leonsj12&theme=github-dark&animated=true&font=Fira+Code&tooltip=on" width="100%" alt="3D GitHub Activity" />
-</p>
 
-### 🏆 Trofeos Dinámicos
+### Trofeos Dinámicos 🏆 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=leonsj12&theme=algolia&column=6&no-frame=true" />
 </p>
@@ -71,12 +67,12 @@ I'm **León, S.**, a student of programming and statistics exploring the world t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonsj12&layout=donut&theme=radical&hide_border=true" width="45%">
 </p>
 
-### 📊 Estadísticas generales
+### Estadísticas generales 📊 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leonsj12&show_icons=true&theme=radical&hide_border=true" width="45%">
 </p>
 
-### 🔥 Racha de contribuciones
+### Racha de contribuciones 🔥 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=leonsj12&theme=radical&hide_border=true" height="160" />
 </p>
