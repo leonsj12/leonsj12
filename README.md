@@ -45,11 +45,12 @@ I'm **León, S.**, a programming and data science enthusiast exploring the world
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ## 📫 Contacto
-📧 sjleon2012@gmail.com
+📧 
 
-## 🎯 Panel Interactivo de Actividad GitHub
+## 🌀 Actividad GitHub
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonsj12&theme=dracula&bg_color=000000&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-profile-3d-contrib.vercel.app/?username=leonsj12&theme=dracula&font=Arial&tooltip=off" width="100%" alt="3D contribution graph"/>
 </div>
 
 <div align="center">
@@ -67,5 +68,6 @@ I'm **León, S.**, a programming and data science enthusiast exploring the world
   <img src="https://streak-stats.demolab.com?user=leonsj12&theme=gruvbox_duo&hide_border=true" height="180" />
 </p>
 
-⚡ *¡Exploro el mundo una línea de código a la vez!* 🚀
+🎯 *¡Exploro el mundo una línea de código a la vez con estilo 3D y pasión!* 🚀
+
 
