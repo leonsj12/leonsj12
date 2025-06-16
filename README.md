@@ -1,4 +1,3 @@
-<!-- Perfil GitHub de León, S -->
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1i7EhUMz3_eNJsO0BygbvJ3dL3Tg9OCr-" width="100%" alt="Banner académico de León S."/>
 </p>
@@ -49,4 +48,3 @@ I am **León, S.**, an enthusiastic student of programming and statistics 📊. 
 ![Leon's GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonsj12&theme=react-dark&area=true)
 
  *Cada día es una oportunidad para aprender algo nuevo con código.* 🎯
--->
