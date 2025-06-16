@@ -48,6 +48,13 @@ I'm **León, S.**, a student of programming and statistics exploring the world t
 📧 sjleon2012@gmail.com
 
 ## 🌀 Panel Interactivo de Actividad GitHub
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/?username=leonsj12&theme=dracula&animated=true&font=Fira+Code&tooltip=on" width="100%" alt="GitHub 3D Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonsj12&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
+</p>
 
 ### 🌍 Gráfico 3D Interactivo
 <p align="center">
@@ -76,16 +83,4 @@ I'm **León, S.**, a student of programming and statistics exploring the world t
 
 🎯 *Cada línea de código que escribo es una línea que construye mi futuro.* 🚀
 
-
-
-
-## 🌀 GitHub Panel Interactivo 3D + Clásico
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/?username=leonsj12&theme=dracula&animated=true&font=Fira+Code&tooltip=on" width="100%" alt="GitHub 3D Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonsj12&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
-</p>
 
