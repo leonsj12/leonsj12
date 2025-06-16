@@ -5,9 +5,10 @@
 
 <h1 align="center">
   <a href="https://github.com/leonsj12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=850&lines=Estudiante+de+Python+y+R;Visualizaci%C3%B3n+de+Datos+y+Ciencia;Con+Jupyter%2C+Colab+y+Anaconda" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=850&lines=Student+of+Python+and+R;Data+Science+and+Visualization+Explorer;Working+with+Jupyter%2C+Colab+and+Anaconda" alt="Typing SVG" />
   </a>
 </h1>
+
 
 ## 👋 ¡Hola! / Hi there!
 
