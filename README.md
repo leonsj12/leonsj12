@@ -12,26 +12,29 @@
 
 ## 👋 ¡Hola! / Hi there!
 
-Soy **León, S.**, estudiante de programación y estadística. Exploro el mundo con Python, R, JupyterLab y Google Colab. ¡Cada línea de código es una aventura!
+Soy **León, S.**, estudiante de programación, estadística y entusiasta de la ciencia. Exploro el mundo con Python, R, JupyterLab y Google Colab, utilizando datos, modelos matemáticos y algoritmos para crear soluciones inteligentes. Me apasiona la ciencia de datos, la inteligencia artificial y cómo la tecnología puede transformar el futuro.
 
-I'm **León, S.**, a student of programming and statistics exploring the world through data.
+I'm **León, S.**, a student of programming, statistics and science enthusiast. I explore the world through Python, R, JupyterLab, and Google Colab, using data, mathematical models, and algorithms to build intelligent solutions. I'm passionate about data science, artificial intelligence, and how technology can transform the future.
+
 
 ## Aprendiendo ahora / Learning now 🚀 
 
-bash
-🧠 Python + lógica + funciones
+```bash
+🧠 Python + lógica + funciones / logic + functions
 📈 matplotlib, seaborn, ggplot2
-⚙️ Automatización con scripts
-📊 Ciencia de datos paso a paso
-
+⚙️ Automatización con scripts / Scripting automation
+📊 Ciencia de datos paso a paso / Data science step by step
+🔢 Matemáticas aplicadas / Applied mathematics
+```
 
 ## 📂 Repositorios
 
-| Proyecto | Descripción |
-|---------|-------------|
-| [📘 funciones_python](https://github.com/leonsj12/funciones_python) | Funciones básicas |
-| [📗 introduccion_a_la_programacion_en_python_I](https://github.com/leonsj12/introduccion_a_la_programacion_en_python_I) | Introducción a la programación |
-| [📙 programas](https://github.com/leonsj12/programas) | Ejercicios variados |
+| Proyecto / Project                                                                                                            | Descripción / Description                                    |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [📘 funciones\_python](https://github.com/leonsj12/funciones_python)                                                          | Funciones básicas / Basic functions                          |
+| [📗 introduccion\_a\_la\_programacion\_en\_python\_I](https://github.com/leonsj12/introduccion_a_la_programacion_en_python_I) | Introducción a la programación / Introduction to programming |
+| [📙 programas](https://github.com/leonsj12/programas)                                                                         | Ejercicios variados / Various exercises                      |
+
 
 ## 🛠️ Herramientas 
 
