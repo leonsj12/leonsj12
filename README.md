@@ -23,7 +23,8 @@ I'm **León, S.**, a passionate student of programming, statistics, and applied 
 🧠 Python + lógica + funciones / Python + logic + functions  
 📈 matplotlib, seaborn, ggplot2 / data visualization  
 ⚙️ Automatización con scripts / automation with scripts  
-📊 Ciencia de datos paso a paso / step-by-step data science  
+📊 Ciencia de datos paso a paso / step-by-step data science
+🔢 Matemáticas aplicadas / Applied mathematics
 
 ## 📂 Repositorios/ Repositories
 
@@ -44,10 +45,7 @@ I'm **León, S.**, a passionate student of programming, statistics, and applied 
 
 ### Lenguajes / Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"><br>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r" alt="R"><br>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino" alt="Arduino"><br>
-<img src="https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white" alt="MicroPython"><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r" alt="R"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino" alt="Arduino"> <img src="https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white" alt="MicroPython">
 
 ### Entornos / Environments
 
