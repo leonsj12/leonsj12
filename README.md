@@ -77,10 +77,16 @@ I'm **León, S.**, a student of programming and statistics exploring the world t
 🎯 *Cada línea de código que escribo es una línea que construye mi futuro.* 🚀
 
 
-## 🌀 GitHub Panel Interactivo 3D (Pantalla Completa)
+
+
+## 🌀 GitHub Panel Interactivo 3D + Clásico
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/?username=leonsj12&theme=dracula&animated=true&font=Fira+Code&tooltip=on" style="max-width: 100%; height: auto;" alt="GitHub 3D Contribution Graph"/>
+  <img src="https://github-profile-3d-contrib.vercel.app/?username=leonsj12&theme=dracula&animated=true&font=Fira+Code&tooltip=on" width="100%" alt="GitHub 3D Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonsj12&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
 </p>
 
 ## 📈 Estadísticas y Lenguajes
@@ -99,5 +105,3 @@ I'm **León, S.**, a student of programming and statistics exploring the world t
 </p>
 
 🎯 *Cada línea de código que escribo es una línea que construye mi futuro.* 🚀
-
-
