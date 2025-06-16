@@ -1,3 +1,4 @@
+<!-- Perfil GitHub de León, S -->
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1i7EhUMz3_eNJsO0BygbvJ3dL3Tg9OCr-" width="100%" alt="Banner académico de León S."/>
 </p>
