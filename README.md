@@ -15,20 +15,20 @@ Soy **León, S.**, estudiante entusiasta de programación y estadística 📊. E
 
 I am **León, S.**, an enthusiastic student of programming and statistics 📊. I'm building skills in **Python** and **R**, working with environments like **JupyterLab**, **Google Colab**, **Anaconda**, and **PyCharm**.
 
-## 💡 Actualmente aprendiendo / Currently Learning
+## Actualmente aprendiendo / Currently Learning 💡 
 
 - Fundamentos de programación en Python y R
 - Desarrollo de notebooks para análisis de datos
 - Visualización de datos con `matplotlib` y `ggplot2`
 - Automatización básica de tareas
 
-## 📂 Repositorios destacados / Highlighted Repositories
+##  Repositorios destacados / Highlighted Repositories 📂
 
 - [📘 funciones_python](https://github.com/leonsj12/funciones_python) — Ejercicios de funciones básicas en Python
 - [📘 introduccion_a_la_programacion_en_python_I](https://github.com/leonsj12/introduccion_a_la_programacion_en_python_I)
 - [📘 programas](https://github.com/leonsj12/programas) — Scripts y ejercicios variados
 
-## ⚙️ Herramientas que uso / Tools I Use
+## Herramientas que uso / Tools I Use ⚙️ 
 
 ### Lenguajes de programación / Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -41,12 +41,12 @@ I am **León, S.**, an enthusiastic student of programming and statistics 📊. 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
 ## 📫 Contacto / Contact
-📧 sjleon2012@gmail.com
+📧 
 
-## 📊 Estadísticas GitHub / GitHub Stats
+## Estadísticas GitHub / GitHub Stats 📊
 ![Leon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonsj12&show_icons=true&theme=tokyonight)
 ![Leon's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leonsj12&theme=tokyonight)
 ![Leon's GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonsj12&theme=react-dark&area=true)
 
-🎯 *Cada día es una oportunidad para aprender algo nuevo con código.*
-
+ *Cada día es una oportunidad para aprender algo nuevo con código.* 🎯
+-->
