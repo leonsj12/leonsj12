@@ -12,8 +12,10 @@
 
 ## 👋 ¡Hola! / Hi there!
 
-Soy **León, S.**, estudiante de programación y estadística. Exploro el mundo con Python, R, JupyterLab y Google Colab. ¡Cada línea de código es una aventura!  
-I'm **León, S.**, a programming and statistics student. I explore the world through Python, R, JupyterLab, and Google Colab. Every line of code is an adventure!
+Soy **León, S.**, estudiante apasionado por la programación, la estadística y la matemática aplicada. Exploro el universo de la ciencia de datos y la inteligencia artificial a través de Python, R, JupyterLab y Google Colab, donde combino código, datos y modelos para descubrir patrones, generar conocimiento y construir soluciones con impacto social y tecnológico.
+
+I'm **León, S.**, a passionate student of programming, statistics, and applied mathematics. I explore the world of data science and artificial intelligence through Python, R, JupyterLab, and Google Colab, combining code, data, and models to uncover patterns, generate insights, and build impactful technological and scientific solutions.
+
 
 ## Aprendiendo ahora / Learning now 🚀 
 
