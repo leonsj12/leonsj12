@@ -10,14 +10,12 @@
 </h1>
 
 <br>
+
 ## 👋 ¡Hola! / Hi there!
 
 Soy **León, S.**, estudiante entusiasta de programación y estadística. Estoy desarrollando habilidades en **Python** y **R**, trabajando con entornos como **JupyterLab**, **Google Colab**, **Anaconda** y **PyCharm**.
 
 I am **León, S.**, an enthusiastic student of programming and statistics. I'm building skills in **Python** and **R**, working with environments like **JupyterLab**, **Google Colab**, **Anaconda**, and **PyCharm**.
-
-
-
 ## Actualmente aprendiendo / Currently Learning 💡 
 
 - Fundamentos de programación en Python y R
