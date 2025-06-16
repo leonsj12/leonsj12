@@ -12,21 +12,20 @@
 
 ## 👋 ¡Hola! / Hi there!
 
-Soy **León, S.**, estudiante apasionado por la programación, la estadística y la matemática aplicada. Exploro el universo de la ciencia de datos y la inteligencia artificial a través de Python, R, JupyterLab y Google Colab, donde combino código, datos y modelos para descubrir patrones, generar conocimiento y construir soluciones con impacto social y tecnológico.
+Soy **León, S.**, estudiante de programación y estadística. Exploro el mundo con Python, R, JupyterLab y Google Colab. ¡Cada línea de código es una aventura!
 
-I'm **León, S.**, a passionate student of programming, statistics, and applied mathematics. I explore the world of data science and artificial intelligence through Python, R, JupyterLab, and Google Colab, combining code, data, and models to uncover patterns, generate insights, and build impactful technological and scientific solutions.
-
+I'm **León, S.**, a student of programming and statistics exploring the world through data.
 
 ## Aprendiendo ahora / Learning now 🚀 
 
-```bash
-🧠 Python + lógica + funciones / Python + logic + functions  
-📈 matplotlib, seaborn, ggplot2 / data visualization  
-⚙️ Automatización con scripts / automation with scripts  
-📊 Ciencia de datos paso a paso / step-by-step data science
-🔢 Matemáticas aplicadas / Applied mathematics
+bash
+🧠 Python + lógica + funciones
+📈 matplotlib, seaborn, ggplot2
+⚙️ Automatización con scripts
+📊 Ciencia de datos paso a paso
 
-## 📂 Repositorios/ Repositories
+
+## 📂 Repositorios
 
 | Proyecto | Descripción |
 |---------|-------------|
@@ -34,8 +33,7 @@ I'm **León, S.**, a passionate student of programming, statistics, and applied 
 | [📗 introduccion_a_la_programacion_en_python_I](https://github.com/leonsj12/introduccion_a_la_programacion_en_python_I) | Introducción a la programación |
 | [📙 programas](https://github.com/leonsj12/programas) | Ejercicios variados |
 
-
-## 🛠️ Herramientas / Tools
+## 🛠️ Herramientas 
 
 ### Lenguajes  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python">
@@ -85,44 +83,3 @@ I'm **León, S.**, a passionate student of programming, statistics, and applied 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=leonsj12&theme=radical&hide_border=true" height="160" />
 </p>
-
-📫 Contacto / Contact
-📧 
-
-## Actividad GitHub/ GitHub Activity
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/?username=leonsj12&theme=dracula&animated=true&font=Fira+Code&tooltip=on" width="100%" alt="GitHub 3D Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonsj12&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
-</p>
-
-
-### Trofeos dinámicos 🏆  / Dynamic trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leonsj12&theme=algolia&column=6&no-frame=true" />
-</p>
-
-### 💬 Lenguajes más usados/ Most used languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonsj12&layout=donut&theme=radical&hide_border=true" width="45%">
-</p>
-
-### Estadísticas generales 📊  / General stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonsj12&show_icons=true&theme=radical&hide_border=true" width="45%">
-</p>
-
-### Racha de contribuciones 🔥  / Contribution streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=leonsj12&theme=radical&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  Cada línea de código es una herramienta para transformar ideas en soluciones, y el conocimiento en impacto.🚀  <br>
-   Every line of code is a tool to turn ideas into solutions, and knowledge into impact.🚀
-</p>
-
-
-
