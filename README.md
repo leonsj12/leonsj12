@@ -36,16 +36,16 @@ I'm **León, S.**, a student of programming, statistics and science enthusiast. 
 | [📙 programas](https://github.com/leonsj12/programas)                                                                         | Ejercicios variados / Various exercises                      |
 
 
-🛠️ Herramientas / Tools
+## 🛠️ Herramientas / Tools
 
-Lenguajes / Languages
+## Lenguajes / Languages
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r" alt="R"> 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino" alt="Arduino"> 
 <img src="https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white" alt="MicroPython">
 
-Entornos / Environments
+## Entornos / Environments
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter" alt="Jupyter"> 
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" alt="Colab"> 
@@ -55,7 +55,7 @@ Entornos / Environments
 📫 Contacto
 📧 
 
-## Actividad GitHub
+## Actividad GitHub/ GitHub Activity
 <p align="center">
   <img src="https://github-profile-3d-contrib.vercel.app/?username=leonsj12&theme=dracula&animated=true&font=Fira+Code&tooltip=on" width="100%" alt="GitHub 3D Contribution Graph"/>
 </p>
@@ -63,7 +63,7 @@ Entornos / Environments
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonsj12&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
 </p>
-
+<p align="center"> <img src="https://github-profile-3d-contrib.vercel.app/?username=leonsj12&theme=dracula&animated=true&font=Fira+Code&tooltip=on" width="100%" alt="GitHub 3D Contribution Graph"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonsj12&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/> </p>
 
 ### Trofeos dinámicos 🏆 
 <p align="center">
