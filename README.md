@@ -1,4 +1,4 @@
-<!-- Perfil Ultra Dinámico y Visual de León, S -->
+<!-- Perfil Ultra Dinámico e Interactivo de León, S -->
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1i7EhUMz3_eNJsO0BygbvJ3dL3Tg9OCr-" width="100%" alt="Banner académico de León S."/>
 </p>
@@ -24,7 +24,7 @@ I'm **León, S.**, a programming and data science enthusiast exploring the world
 🌐 Ciencia de datos paso a paso
 ```
 
-## 📂 Mis Repositorios Favoritos
+## 📂 Repositorios Favoritos
 
 | ⭐ Proyecto | 🚀 Descripción |
 |------------|----------------|
@@ -32,7 +32,7 @@ I'm **León, S.**, a programming and data science enthusiast exploring the world
 | [📗 introduccion_a_la_programacion_en_python_I](https://github.com/leonsj12/introduccion_a_la_programacion_en_python_I) | Curso base de programación |
 | [📙 programas](https://github.com/leonsj12/programas) | Ejercicios divertidos y útiles |
 
-## 🛠️ Herramientas que uso
+## 🛠️ Herramientas Favoritas
 
 ### 🔤 Lenguajes
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
@@ -45,27 +45,27 @@ I'm **León, S.**, a programming and data science enthusiast exploring the world
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ## 📫 Contacto
-📧 
+📧 sjleon2012@gmail.com
 
-## 🔮 Actividad GitHub interactiva
-<p align="center">
+## 🎯 Panel Interactivo de Actividad GitHub
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonsj12&theme=dracula&bg_color=000000&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" width="95%"/>
+</div>
+
+<div align="center">
   <a href="https://github.com/leonsj12">
-    <img width="90%" alt="github contribution graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=leonsj12&theme=ayu-mirage&hide_border=true&area=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=leonsj12&theme=matrix&margin-w=15&no-frame=true&row=2&column=3"/>
   </a>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonsj12&layout=donut&theme=gruvbox&hide_border=true&langs_count=8" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonsj12&show_icons=true&theme=gruvbox&hide_border=true" width="48%">
+</div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leonsj12&theme=tokyonight&row=1&margin-w=15&no-frame=true"/>
+  <img src="https://streak-stats.demolab.com?user=leonsj12&theme=gruvbox_duo&hide_border=true" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonsj12&layout=compact&theme=tokyonight&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonsj12&show_icons=true&theme=tokyonight&hide_border=true" height="150">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=leonsj12&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-🌟 *Nunca dejes de aprender. Cada línea de código es magia en construcción.*
+⚡ *¡Exploro el mundo una línea de código a la vez!* 🚀
 
