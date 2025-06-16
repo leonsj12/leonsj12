@@ -10,7 +10,6 @@
 </h1>
 
 <br>
-
 ## 👋 ¡Hola! / Hi there!
 
 Soy **León, S.**, estudiante entusiasta de programación y estadística. Estoy desarrollando habilidades en **Python** y **R**, trabajando con entornos como **JupyterLab**, **Google Colab**, **Anaconda** y **PyCharm**.
@@ -19,7 +18,7 @@ I am **León, S.**, an enthusiastic student of programming and statistics. I'm b
 
 
 
-# Actualmente aprendiendo / Currently Learning 💡 
+## Actualmente aprendiendo / Currently Learning 💡 
 
 - Fundamentos de programación en Python y R
 - Desarrollo de notebooks para análisis de datos
