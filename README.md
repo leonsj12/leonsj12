@@ -77,25 +77,13 @@ I'm **León, S.**, a student of programming and statistics exploring the world t
 🎯 *Cada línea de código que escribo es una línea que construye mi futuro.* 🚀
 
 
-
-### Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
-
-### Entornos
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
-
-## 📫 Contacto
-📧 sjleon2012@gmail.com
-
-## 🌀 GitHub Panel Interactivo
+## 🌀 GitHub Panel Interactivo 3D (Pantalla Completa)
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/?username=leonsj12&theme=monokai&animated=true&font=Fira+Code&tooltip=on" width="100%" alt="3D GitHub Contribution Graph" />
+  <img src="https://github-profile-3d-contrib.vercel.app/?username=leonsj12&theme=dracula&animated=true&font=Fira+Code&tooltip=on" style="max-width: 100%; height: auto;" alt="GitHub 3D Contribution Graph"/>
 </p>
+
+## 📈 Estadísticas y Lenguajes
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leonsj12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -111,4 +99,5 @@ I'm **León, S.**, a student of programming and statistics exploring the world t
 </p>
 
 🎯 *Cada línea de código que escribo es una línea que construye mi futuro.* 🚀
+
 
