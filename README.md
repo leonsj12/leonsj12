@@ -89,19 +89,3 @@ I'm **León, S.**, a student of programming and statistics exploring the world t
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonsj12&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
 </p>
 
-## 📈 Estadísticas y Lenguajes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonsj12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonsj12&layout=donut&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=leonsj12&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leonsj12&theme=darkhub&margin-w=10&row=1&no-frame=true" />
-</p>
-
-🎯 *Cada línea de código que escribo es una línea que construye mi futuro.* 🚀
