@@ -9,8 +9,6 @@
   </a>
 </h1>
 
-<br>
-
 ## 👋 ¡Hola! / Hi there!
 
 Soy **León, S.**, estudiante entusiasta de programación y estadística 📊. Estoy desarrollando habilidades en **Python** y **R**, trabajando con entornos como **JupyterLab**, **Google Colab**, **Anaconda** y **PyCharm**.
@@ -43,7 +41,7 @@ I am **León, S.**, an enthusiastic student of programming and statistics 📊. 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
 ## 📫 Contacto / Contact
-📧 
+📧 sjleon2012@gmail.com
 
 ## 📊 Estadísticas GitHub / GitHub Stats
 ![Leon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonsj12&show_icons=true&theme=tokyonight)
