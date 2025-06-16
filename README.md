@@ -44,7 +44,7 @@ I'm **León, S.**, a student of programming and statistics exploring the world t
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
 
-## 📫 Contacto
+📫 Contacto
 📧 
 
 ## Actividad GitHub
